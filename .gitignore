@@ -1,0 +1,9 @@
+*.json
+.env
+__pycache__/
+*.pyc
+venv/
+model/fraud_model/
+model/scaler.pkl
+model/le_txn.pkl
+model/le_country.pkl

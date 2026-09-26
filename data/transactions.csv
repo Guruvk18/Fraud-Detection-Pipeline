@@ -1,0 +1,16 @@
+txn_id,account_id,customer_id,amount,txn_type,merchant,city,country,hour,is_fraud
+T001,ACC001,C001,150.00,debit,Amazon,New York,US,14,0
+T002,ACC002,C002,9999.99,debit,Unknown,Lagos,NG,3,1
+T003,ACC003,C003,45.50,debit,Walmart,Chicago,US,10,0
+T004,ACC004,C004,7500.00,debit,Unknown,Moscow,RU,2,1
+T005,ACC005,C005,200.00,credit,Salary,Houston,US,9,0
+T006,ACC001,C001,8900.00,debit,Unknown,Beijing,CN,1,1
+T007,ACC006,C006,35.00,debit,Starbucks,Seattle,US,8,0
+T008,ACC007,C007,6700.00,debit,Unknown,Lagos,NG,4,1
+T009,ACC008,C008,120.00,debit,Netflix,Los Angeles,US,20,0
+T010,ACC009,C009,5500.00,debit,Unknown,Moscow,RU,3,1
+T011,ACC010,C010,89.99,debit,Apple,San Francisco,US,15,0
+T012,ACC002,C002,4200.00,debit,Unknown,Beijing,CN,2,1
+T013,ACC011,C011,300.00,debit,Target,Dallas,US,11,0
+T014,ACC012,C012,9100.00,debit,Unknown,Lagos,NG,1,1
+T015,ACC013,C013,55.00,debit,Uber,Miami,US,18,0
