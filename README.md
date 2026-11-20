@@ -167,3 +167,8 @@ cp dags/fraud_dag.py gs://<your-bucket>/dags/
 *"Detect fraud in real time before it costs a dime."*
 
 </div>
+
+## Contributors
+
+- [Mohammed Junaid Khan](https://github.com/mohammedjunaidkhan980)
+- [Guruvk18](https://github.com/Guruvk18)
